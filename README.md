@@ -6,4 +6,6 @@ Prerequisites:
   Streamlit : "pip install streamlit"
  
 Running the Program:
- Type "streamlit run main.py" to run the program which will open streamlit in http://localhost:8501 .
+  https://stock-charts-heroku.herokuapp.com/
+  (or)
+ if you want to run it yourself in a terminal, then, type "streamlit run main.py" to run the program which will open streamlit in http://localhost:8501 .
