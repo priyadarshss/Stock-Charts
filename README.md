@@ -1,5 +1,5 @@
 # Stock-Charts
-Show three charts of a few stocks for T.A.
+Show three charts of 31 of the most popular stocks on Yahoo Finance for T.A.
 
 Prerequisites:
   Yahoo finance : "pip install yfinance"
