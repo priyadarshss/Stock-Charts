@@ -1,3 +1,4 @@
+BTC-USD/
 AAPL	
 MSFT	
 AMZN	
